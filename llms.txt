@@ -1,0 +1,62 @@
+# Laboratoriomecanicadesuelos — Burgos
+
+> Geotechnical engineering services in Burgos, España.
+
+## Services
+- [Aislacion Sismica](https://burgos.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Anclajes](https://burgos.laboratoriomecanicadesuelos.org/anclajes/)
+- [Calicatas](https://burgos.laboratoriomecanicadesuelos.org/calicatas/)
+- [Calicatas Exploratorias](https://burgos.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Cbr Vial](https://burgos.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://burgos.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Superficiales](https://burgos.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Columnas Grava](https://burgos.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Densidad Cono Arena](https://burgos.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Ensayo Cpt](https://burgos.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayo Triaxial](https://burgos.laboratoriomecanicadesuelos.org/ensayo-triaxial/)
+- [Ensayos Proctor](https://burgos.laboratoriomecanicadesuelos.org/ensayos-proctor/)
+- [Estabilidad Taludes](https://burgos.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Excavaciones Profundas](https://burgos.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://burgos.laboratoriomecanicadesuelos.org/excavaciones-subterraneo/)
+- [Exploracion](https://burgos.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geofisica](https://burgos.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geotecnia Vial](https://burgos.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://burgos.laboratoriomecanicadesuelos.org/granulometria/)
+- [Grouting](https://burgos.laboratoriomecanicadesuelos.org/grouting/)
+- [Inyecciones](https://burgos.laboratoriomecanicadesuelos.org/inyecciones/)
+- [Laboratorio In Situ](https://burgos.laboratoriomecanicadesuelos.org/laboratorio-in-situ/)
+- [Laboratorio Lab](https://burgos.laboratoriomecanicadesuelos.org/laboratorio-lab/)
+- [Licuefaccion](https://burgos.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://burgos.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://burgos.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Losas Fundacion](https://burgos.laboratoriomecanicadesuelos.org/losas-fundacion/)
+- [Masw](https://burgos.laboratoriomecanicadesuelos.org/masw/)
+- [Masw Vs30](https://burgos.laboratoriomecanicadesuelos.org/masw-vs30/)
+- [Mejoramiento](https://burgos.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Microzonificacion Sismica](https://burgos.laboratoriomecanicadesuelos.org/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://burgos.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muros Contencion](https://burgos.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Pavimento Flexible](https://burgos.laboratoriomecanicadesuelos.org/pavimento-flexible/)
+- [Pavimento Rigido](https://burgos.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Permeabilidad Campo](https://burgos.laboratoriomecanicadesuelos.org/permeabilidad-campo/)
+- [Permeabilidad In Situ](https://burgos.laboratoriomecanicadesuelos.org/permeabilidad-in-situ/)
+- [Pilotes](https://burgos.laboratoriomecanicadesuelos.org/pilotes/)
+- [Placa De Carga](https://burgos.laboratoriomecanicadesuelos.org/placa-de-carga/)
+- [Refraccion Sismica](https://burgos.laboratoriomecanicadesuelos.org/refraccion-sismica/)
+- [Resistividad](https://burgos.laboratoriomecanicadesuelos.org/resistividad/)
+- [Sismica](https://burgos.laboratoriomecanicadesuelos.org/sismica/)
+- [Sondaje Spt](https://burgos.laboratoriomecanicadesuelos.org/sondaje-spt/)
+- [Sondajes Spt](https://burgos.laboratoriomecanicadesuelos.org/sondajes-spt/)
+- [Taludes](https://burgos.laboratoriomecanicadesuelos.org/taludes/)
+- [Tomografia Sismica](https://burgos.laboratoriomecanicadesuelos.org/tomografia-sismica/)
+- [Triaxial](https://burgos.laboratoriomecanicadesuelos.org/triaxial/)
+- [Tuneles Suelo Blando](https://burgos.laboratoriomecanicadesuelos.org/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://burgos.laboratoriomecanicadesuelos.org/vibrocompactacion/)
+- [Zapatas](https://burgos.laboratoriomecanicadesuelos.org/zapatas/)
+
+## Contact
+- Website: https://burgos.laboratoriomecanicadesuelos.org/
+
+## About
+This site provides geotechnical engineering services in Burgos, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
